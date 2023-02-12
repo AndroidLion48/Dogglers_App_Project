@@ -1,5 +1,6 @@
 # Dogglers App Project
 Project from completing Unit 2: Layouts from Android Course
+![gridScreenshot](https://user-images.githubusercontent.com/92341925/218334675-6c9d81f0-027b-43d5-b579-4ffef4d9fca0.png)
 
 I built an app called Dogglers that displays information in a RecyclerView using the skills you learned in Unit 2 through gained knowledge of layouts to build a scrollable dog photo app in Android Studio, and run tests against my code to make sure everything works as expected.
 
